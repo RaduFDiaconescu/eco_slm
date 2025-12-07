@@ -1,1 +1,3 @@
 This repo contains code written in the context of my internship module in theoretical bacterial ecology under the supervision of Jacopo Grilli and William Shoemaker at ICTP Trieste in October-December 2025. 
+
+It contains Python scripts implementing a method to calculate the log-likelihood of timeseries data via a propagator estimator based on constructing stochastic bridges and a bridge change of measure. For details about supporting theory, see https://arxiv.org/abs/2509.24977v2 and https://www.nature.com/articles/s41467-020-18529-y . It also contains tests in implementing an ABC-SMC approach for parameter inference from timeseries data in pymc.
