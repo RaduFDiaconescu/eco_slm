@@ -1,0 +1,1 @@
+This repo contains code written in the context of my internship module in theoretical bacterial ecology under the supervision of Jacopo Grilli and William Shoemaker at ICTP Trieste in October-December 2025. 
